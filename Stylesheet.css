@@ -12,3 +12,15 @@
 	border:2px solid #6495ED;
 }
 
+table tr td{
+
+	border:2px solid #C8C8C8;
+}
+
+head {
+	background-image: url("Umback.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed
+	opacity: 0.8
+}
