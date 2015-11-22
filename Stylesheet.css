@@ -27,14 +27,20 @@ div::after {
   content: "";
   background: url(Umback.jpg);
   opacity: 0.1;
-  top: ;
+  padding-bottom: 400px;
+  top: 0;
   left: 0;
   bottom: 0;
   right: 0;
   position: absolute;
   z-index: -1;   
+  background-size:1520px: 1640px;
   background-position: center;
 	background-repeat: no-repeat;
-	background-attachment: fixed
+	background-attachment: fixed;
 }
+.Bluebox {
+	background-color: #4166F5;
+	height: 100;
+	line-height: 150px;
 }
