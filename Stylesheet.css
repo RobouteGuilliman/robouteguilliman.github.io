@@ -25,7 +25,7 @@ stasis{
 }
 div::after {
   content: "";
-  background: url(Umback.jpg);
+  background: url("Umback.jpg");
   opacity: 0.1;
   padding-bottom: 400px;
   top: 0;
@@ -44,4 +44,3 @@ div::after {
 	height: 150px;
 	line-height: 150px;
 }
-lel
